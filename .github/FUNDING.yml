@@ -1,0 +1,108 @@
+# 🚀 PEPSY Token - Sponsorship and Funding 🚀
+# List of platforms where donations or funding can be received for the project.
+
+funding:
+
+  # 📌 GitHub Sponsors - Up to 4 users enabled to receive support on GitHub
+  github: 
+    - pepsytoken
+    - your_secondary_username
+
+  # 📌 Patreon - Subscription and recurring support platform
+  patreon: pepsytoken
+
+  # 📌 Open Collective - Transparent community funding
+  open_collective: pepsytoken-community
+
+  # 📌 Ko-fi - One-time or recurring donations with low fees
+  ko_fi: pepsytoken
+
+  # 📌 Tidelift - Financial support for packages and developers
+  tidelift: npm/pepsytoken
+
+  # 📌 Community Bridge - Open-source project funding
+  community_bridge: pepsy-blockchain
+
+  # 📌 Liberapay - Decentralized recurring donations
+  liberapay: pepsytoken
+
+  # 📌 IssueHunt - Rewards for developers contributing code
+  issuehunt: pepsytoken
+
+  # 📌 LFX Crowdfunding - Community-funded projects
+  lfx_crowdfunding: pepsy-finance
+
+  # 📌 Polar - Crowdfunding for software projects
+  polar: pepsytoken
+
+  # 📌 Buy Me a Coffee - Simple platform to receive community support
+  buy_me_a_coffee: pepsytoken
+
+  # 📌 Thanks.dev - Reward-based funding system
+  thanks_dev: pepsytoken
+
+  # 📌 Custom links to receive additional funding (up to 4 links)
+  custom: 
+    - "https://psychotradingpro.org/donate"
+    - "https://etherscan.io/address/0xYourAddress"
+    - "https://pepsytoken.medium.com/support"
+    - "https://pepsytoken.gitbook.io/docs/donations"
+
+# ✅ This file will allow sponsors to fund PEPSY from various platforms.
+# 🎯 Add more links if needed and customize usernames.
+
+# 🚀 PEPSY Token - Patrocinios y Financiamiento 🚀
+# Lista de plataformas donde se pueden recibir donaciones o financiamiento para el proyecto.
+
+funding:
+
+  # 📌 GitHub Sponsors - Hasta 4 usuarios habilitados para recibir apoyo en GitHub
+  github: 
+    - pepsytoken
+    - tu_usuario_secundario
+
+  # 📌 Patreon - Plataforma de suscripciones y apoyo recurrente
+  patreon: pepsytoken
+
+  # 📌 Open Collective - Financiamiento transparente de la comunidad
+  open_collective: pepsytoken-community
+
+  # 📌 Ko-fi - Donaciones únicas o recurrentes sin comisiones altas
+  ko_fi: pepsytoken
+
+  # 📌 Tidelift - Soporte financiero para paquetes y desarrolladores
+  tidelift: npm/pepsytoken
+
+  # 📌 Community Bridge - Financiamiento para proyectos de código abierto
+  community_bridge: pepsy-blockchain
+
+  # 📌 Liberapay - Donaciones recurrentes descentralizadas
+  liberapay: pepsytoken
+
+  # 📌 IssueHunt - Recompensas para desarrolladores que contribuyan con código
+  issuehunt: pepsytoken
+
+  # 📌 LFX Crowdfunding - Proyectos comunitarios financiados
+  lfx_crowdfunding: pepsy-finance
+
+  # 📌 Polar - Crowdfunding para proyectos de software
+  polar: pepsytoken
+
+  # 📌 Buy Me a Coffee - Plataforma simple para recibir apoyo de la comunidad
+  buy_me_a_coffee: pepsytoken
+
+  # 📌 Thanks.dev - Sistema de financiamiento basado en recompensas
+  thanks_dev: pepsytoken
+
+  # 📌 Enlaces personalizados para recibir financiamiento adicional (hasta 4 enlaces)
+  custom: 
+    - "https://psychotradingpro.org/donate"
+    - "https://etherscan.io/address/0xTuDireccion"
+    - "https://pepsytoken.medium.com/support"
+    - "https://pepsytoken.gitbook.io/docs/donations"
+
+# ✅ Este archivo permitirá a los patrocinadores financiar PEPSY desde diversas plataformas.
+# 🎯 Agrega más enlaces si lo necesitas y personaliza los nombres de usuario.
+
+
+
